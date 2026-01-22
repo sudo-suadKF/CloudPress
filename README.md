@@ -1,4 +1,4 @@
-# CloudPress HA — Multi-AZ WordPress Infrastructure on AWS (Terraform)
+# CloudPress - Multi-AZ WordPress Infrastructure on AWS (Terraform)
 
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?logo=terraform)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
